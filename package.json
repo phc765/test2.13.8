@@ -1,7 +1,7 @@
 {
   "name": "he-thong-khao-sat-an-toan-mang",
   "version": "1.0.0",
-  "private": true,
+ "private": true,
   "description": "Hệ thống khảo sát dành cho học sinh để đánh giá nguy cơ an toàn mạng, đồng thời cung cấp cho giáo viên công cụ theo dõi, thống kê và cảnh báo sớm.",
   "scripts": {
     "dev": "vite",
@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@google/genai": "^0.15.0",
+
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
