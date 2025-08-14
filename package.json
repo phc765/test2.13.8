@@ -4,18 +4,19 @@
   "private": true,
   "description": "Hệ thống khảo sát dành cho học sinh để đánh giá nguy cơ an toàn mạng, đồng thời cung cấp cho giáo viên công cụ theo dõi, thống kê và cảnh báo sớm.",
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start"
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
   },
   "dependencies": {
     "@google/genai": "^0.15.0",
-    "next": "14.2.3",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
   "devDependencies": {
     "@types/react": "^18.3.3",
-    "typescript": "^5.5.4"
+    "@types/react-dom": "^18.3.3",
+    "typescript": "^5.5.4",
+    "vite": "^5.2.0"
   }
 }
