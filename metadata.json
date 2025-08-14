@@ -1,0 +1,5 @@
+{
+  "name": "Hệ thống Khảo sát & Cảnh báo An toàn Mạng",
+  "description": "Hệ thống khảo sát dành cho học sinh để đánh giá nguy cơ an toàn mạng, đồng thời cung cấp cho giáo viên công cụ theo dõi, thống kê và cảnh báo sớm.",
+  "requestFramePermissions": []
+}

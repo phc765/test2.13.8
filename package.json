@@ -1,0 +1,16 @@
+{
+  "name": "he-thong-khao-sat-an-toan-mang",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Hệ thống khảo sát dành cho học sinh để đánh giá nguy cơ an toàn mạng, đồng thời cung cấp cho giáo viên công cụ theo dõi, thống kê và cảnh báo sớm.",
+  "scripts": {
+    "build": "echo 'No build step required for frontend, Vercel will handle API routes.' && exit 0"
+  },
+  "dependencies": {
+    "@google/genai": "^0.15.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.3",
+    "typescript": "^5.5.4"
+  }
+}
